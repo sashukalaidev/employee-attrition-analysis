@@ -17,9 +17,9 @@ the company and predicts future attrition using Machine Learning.
 3. Do overtime employees leave more often?
 
 ## 🔍 Key Findings
-- 💼 **Sales Department** has highest attrition (20.63%)
-- 💰 Employees who left had **42% lower salary** than those who stayed
-- ⏰ Overtime employees are **more likely to quit**
+-  **Sales Department** has highest attrition (20.63%)
+-  Employees who left had **42% lower salary** than those who stayed
+-  Overtime employees are **more likely to quit**
 
 ## 🤖 ML Model
 - **Algorithm:** Logistic Regression
